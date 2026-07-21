@@ -60,15 +60,14 @@ Each module functions as an independent Spring Boot microservice following a lay
 
 # Microservices
 
-| Service         | Description                                               | README.md                                                                                                |
-| --------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Vehicle Service | Manages vehicle registration and FASTag information       | [Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/VehicleAPI/README.md) |
-| Wallet Service  | Handles FASTag wallet recharge and payment operations     | [Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/WalletAPI/README.md)  |
-| Journey Service | Stores and retrieves vehicle journey records              | [Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/JourneyAPI/README.md) |
-| Toll Service    | Coordinates the overall toll payment workflow             | [Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/TollAPI/README.md)    |
-| API Gateway     | Serves as the central entry point for all client requests | [Readme-link](https://github.com/isravel-eng/smart-toll-plaza-automation/blob/main/APIGateway/README.md) |
+| Service         | Description                                   |                                                                  
+| --------------- | --------------------------------------------------------- |
+| Vehicle Service | Manages vehicle registration and FASTag information       | 
+| Wallet Service  | Handles FASTag wallet recharge and payment operations     |
+| Journey Service | Stores and retrieves vehicle journey records              | 
+| Toll Service    | Coordinates the overall toll payment workflow             | 
+| API Gateway     | Serves as the central entry point for all client requests | 
 
----
 
 # Toll Payment Flow
 
