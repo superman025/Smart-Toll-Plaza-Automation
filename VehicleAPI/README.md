@@ -198,7 +198,7 @@ POST /api/v1/vehicles
 ```json
 {
   "vehicleNumber":"TN38AB1234",
-  "ownerName":"Isravel",
+  "ownerName":"Srijai",
   "vehicleType":"CAR",
   "fastagId":"FT1001"
 }
